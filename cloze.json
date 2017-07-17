@@ -1,0 +1,14 @@
+[
+	{
+		"full": "One, two, three, four.",
+		"cloze": "three"
+	},
+	{
+		"full": "In 1492, Colombus sailed the ocean orange",
+		"cloze": "orange"
+	},
+	{
+		"full": "I wonder what the answer to this question is",
+		"cloze": "answer"
+	}
+]
